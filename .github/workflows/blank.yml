@@ -1,0 +1,106 @@
+nome : principal
+
+em : [pressione]
+
+trabalhos :
+  teste :
+    run-on : ubuntu-latest
+
+    passos :
+      - usa : ações/checkout@v3
+      - usa : ações/setup-node@v3
+        com :
+          cache : fio
+          versão do nó : 16
+      - execute : yarn install --frozen-lockfile
+
+      - corrida : tipo de fio
+      - executar : fiapos de fios
+      - executar : teste de fio --ci
+
+  teste-ação :
+    run-on : ubuntu-latest
+    passos :
+      - usa : ações/checkout@v3
+
+      - nome : atualize o action.yml para usar a imagem do Dockerfile local
+        executar : |
+          sed -i "s/image: .*/image: Dockerfile/" action.yml
+      - nome : gerar-snake-game-from-github-contribution-grid
+        id : gerar-cobra
+        utiliza : ./
+        com :
+          github_user_name : platane
+          saídas : |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      - nome : verifique se o arquivo gerado existe
+        executar : |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+          test -f dist/github-contribution-grid-snake.gif
+      - usa : crazy-max/ghaction-github-pages@v3.1.0
+        com :
+          target_branch : saída
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+
+  test-action-svg-only :
+    run-on : ubuntu-latest
+    passos :
+      - usa : ações/checkout@v3
+      - usa : ações/setup-node@v3
+        com :
+          cache : fio
+          versão do nó : 16
+      - execute : yarn install --frozen-lockfile
+
+      - nome : construir ação somente SVG
+        executar : |
+          construção de fio: ação
+          rm -r svg-only/dist
+          mv packages/action/dist svg-only/dist
+      - nome : gerar-snake-game-from-github-contribution-grid
+        id : gerar-cobra
+        usa : ./svg-only
+        com :
+          github_user_name : platane
+          saídas : |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - nome : verifique se o arquivo gerado existe
+        executar : |
+          ls dist
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+      - usa : crazy-max/ghaction-github-pages@v3.1.0
+        com :
+          target_branch : output-svg-only
+          build_dir : dist
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.GITHUB_TOKEN }}
+
+  deploy-ghpages :
+    run-on : ubuntu-latest
+    passos :
+      - usa : ações/checkout@v3
+      - usa : ações/setup-node@v3
+        com :
+          cache : fio
+          versão do nó : 16
+      - execute : yarn install --frozen-lockfile
+
+      - execute : fio build:demo
+        ambiente :
+          GITHUB_USER_CONTRIBUTION_API_ENDPOINT : https://snk-one.vercel.app/api/github-user-contribution/
+
+      - usa : crazy-max/ghaction-github-pages@v3.1.0
+        if : success() && github.ref == 'refs/heads/main'
+        com :
+          target_branch : gh-pages
+          build_dir : packages/demo/dist
+        ambiente :
+          GITHUB_TOKEN : ${{ segredos.MY_GITHUB_TOKEN_GH_PAGES }}
