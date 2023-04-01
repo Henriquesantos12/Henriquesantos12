@@ -5,7 +5,8 @@
 - 🌱 Estudando Java, Javascript e Lógica de programação;
 - 📫 How to reach me: contatohenrique2005@gmail.com
 - 😄 Pronouns: ELE/DELE
-- ⚡ Fun fact: amante de  tecnologia e  amo café
+- ⚡ Fun fact: amante de  tecnologia e  amo café. 
+- 👩‍💻 Cursando Desenvolvimento Web FullStack | 💙 Instituto Proa.
 
 ## Opaaa sou Henrique, um amante de tecnologia.
 
