@@ -23,6 +23,8 @@
     <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Joao-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Henrique-REACT" height="50" width="60" src="https://user-images.githubusercontent.com/98967783/174184540-125333d2-f550-413f-89ff-db5068a8eb35.png">
+   <img align="center" alt="Henrique-MYSQL" height="50" width="60" src="https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png">
+  <img align="center" alt="Henrique-Figma" height="50" width="60" src="https://logospng.org/wp-content/uploads/figma.png">
  </div>
 
 ##
