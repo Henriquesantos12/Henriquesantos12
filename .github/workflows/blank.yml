@@ -1,0 +1,26 @@
+name: Snake CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up C compiler
+        run: sudo apt-get install build-essential
+      
+      - name: Compile code
+        run: gcc -o my_program my_program.c
+      
+      - name: Run tests
+        run: ./my_program
