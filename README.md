@@ -9,7 +9,7 @@
 - 👩‍💻 Cursando Desenvolvimento Web FullStack | 💙 Instituto Proa.
 
 ## Opaaa sou Henrique, um amante de tecnologia.
-######Estudando constantemente 👩‍💻
+####Estudando constantemente 👩‍💻
 
 <div>
   
