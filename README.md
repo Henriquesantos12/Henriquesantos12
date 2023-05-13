@@ -2,7 +2,8 @@
 
 
 - 🔭 Hoje estou em Busca de oportunidades pra atuar na área de desenvolvimento 
-- 🌱 conhecimentos: Java | MySql | Sql Server | JavaScript | React JS | NodeJS | HTML | CSS. 
+- 🌱 knowledge: Java | MySql | Sql Server | JavaScript | React JS | NodeJS | HTML | CSS. 
+- ❤  studying: Fundamentos de redes | Amazon Web Service (AWS)
 - 📫 How to reach me: contatohenrique2005@gmail.com
 - 😄 Pronouns: ELE/DELE
 - ⚡ Fun fact: amante de  tecnologia e café. 
