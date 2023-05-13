@@ -2,13 +2,14 @@
 
 
 - 🔭 Hoje estou em Busca de oportunidades pra atuar na área de desenvolvimento 
-- 🌱 conhecimentos: Java | MySql | Sql Server | JavaScript | React JS | NodeJS | HTML | CSS.
+- 🌱 conhecimentos: Java | MySql | Sql Server | JavaScript | React JS | NodeJS | HTML | CSS. 
 - 📫 How to reach me: contatohenrique2005@gmail.com
 - 😄 Pronouns: ELE/DELE
 - ⚡ Fun fact: amante de  tecnologia e café. 
 - 👩‍💻 Cursando Desenvolvimento Web FullStack | 💙 Instituto Proa.
 
 ## Opaaa sou Henrique, um amante de tecnologia.
+######Estudando constantemente 👩‍💻
 
 <div>
   
