@@ -1,17 +1,9 @@
-### Hi there 👋
-
-
-- 🔭 Hoje estou em Busca de oportunidades pra atuar na área de desenvolvimento 
-- 🌱 knowledge: Java | MySql | Sql Server | JavaScript | React JS | NodeJS | HTML | CSS. 
-- ❤  studying: Fundamentos de redes | Amazon Web Service (AWS)
-- 📫 How to reach me: contatohenrique2005@gmail.com
-- 😄 Pronouns: ELE/DELE
 - ⚡ Fun fact: amante de  tecnologia e café. 
 - 👩‍💻 Cursando Desenvolvimento Web FullStack | 💙 Instituto Proa.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d5fe8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Santos;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5d5fe8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Henrique+Santos;I'm+18+years+old;I'm+from+Brazil;I+love+coffee+:%29)](https://git.io/typing-svg)
 
 
 
