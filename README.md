@@ -29,8 +29,8 @@
     <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="henrique-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" alt="Henrique-MYSQL" height="50" width="60" src="https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png">
-  <img align="center" alt="Henrique-REACT" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Henrique-SQLSERVER" height="50" width="60" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  <img align="center" alt="Henrique-REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
  </div>
 <div>
   
