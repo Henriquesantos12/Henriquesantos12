@@ -23,6 +23,7 @@
    <img align="center" alt="Henrique-MYSQL" height="50" width="60" src="https://user-images.githubusercontent.com/98967783/174158689-1042978a-82c2-47bf-b609-76087f171692.png">
   <img align="center" alt="Henrique-REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+    <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
  </div>
 <div>
   
