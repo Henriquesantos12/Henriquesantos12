@@ -24,6 +24,7 @@
   <img align="center" alt="Henrique-REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
     <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
+    <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ATypescript_logo_2020.svg&psig=AOvVaw3YshNeaHxGEXZ6mzb3NPX7&ust=1686926742988000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKj8i_3Bxf8CFQAAAAAdAAAAABAE">
  </div>
 <div>
   
