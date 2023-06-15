@@ -24,7 +24,7 @@
   <img align="center" alt="Henrique-REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
     <img align="center" alt="Henrique-SQLSERVER" height="40" width="40" src="https://user-images.githubusercontent.com/98967783/174185123-5320be02-087c-4b0e-a92e-a156376aadd9.png">
-    <img align="center" alt="Henrique-Typescript" height="40" width="40" src="https://logospng.org/wp-content/uploads/typescript.png">
+    <img align="center" alt="Henrique-Typescript" height="70" width="70" src="https://logospng.org/wp-content/uploads/typescript.png">
  </div>
 <div>
   
