@@ -1,6 +1,6 @@
 - ⚡ Fun fact: amante de  tecnologia e café. 
-- 👩‍💻 Cursei Desenvolvimento Web FullStack | 💙 Instituto Proa.
-- 👨‍🎓 Cursando superior técnologo em Análise e Desenvolvimento de Sistemas | 👨‍💻 Centro Universitário UNIBTA Digital
+- 👩‍💻 Cursei Desenvolvimento Web Java | 💙 Instituto Proa.
+- 👨‍🎓 Cursando CST em Análise e Desenvolvimento de Sistemas | 👨‍💻 Centro Universitário UNIBTA Digital
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5d5fe8&height=120&section=header"/>
 
